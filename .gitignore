@@ -1,0 +1,6 @@
+speller
+speller.o
+dictionary.o
+staff.txt
+student.txt
+keys/
